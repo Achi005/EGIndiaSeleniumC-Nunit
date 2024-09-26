@@ -1,0 +1,51 @@
+{
+  "uuid": "27e6ff20-55f2-4e84-9bca-4892a9455144",
+  "historyId": "cce479356ad341936a55fc44644e953e",
+  "testCaseId": "71fcd6c63dd7d7fa8f5fe54b3fb5660e",
+  "fullName": "NUnitSeleniumC#Training:NUnitSeleniumC_Training.NUNITTests.ParallelExecution.login()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#15"
+    },
+    {
+      "name": "host",
+      "value": "AUTOXTX9LSMXZBI"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NUnitSeleniumC_Training.NUNITTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "login"
+    },
+    {
+      "name": "testClass",
+      "value": "ParallelExecution"
+    }
+  ],
+  "links": [],
+  "name": "login",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "ee7240e1-22b3-4e7b-9050-18e9f47d5f72-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1726488657050,
+  "stop": 1726488657064
+}
